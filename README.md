@@ -106,5 +106,6 @@ src/deep_agent/       包入口
 
 ## 6. 相关文章
 
-- [给 Agent 划权限边界：全局只读、目录隔离、人工审批](https://jiaiyi.github.io/posts/agent-permission-boundaries.html)
-- 博客主页：https://jiaiyi.github.io
+- [给 Agent 划权限边界：全局只读、目录隔离、人工审批](https://jiaiyi.github.io/posts/agent-permission-boundaries.html) ·
+  [掘金版](https://juejin.cn/post/7706822082815623202)
+- 更多项目：[作品集](https://jiaiyi.github.io/portfolio.html) · [博客](https://jiaiyi.github.io)
